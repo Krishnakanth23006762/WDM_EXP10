@@ -26,5 +26,8 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1002" height="753" alt="image" src="https://github.com/user-attachments/assets/33a2e311-6a27-4b9e-95cb-87ca9d1f2525" />
+<img width="691" height="883" alt="image" src="https://github.com/user-attachments/assets/e8224261-f5d7-48a7-8f34-b2bac789e1ed" />
 
 ### Result:
+Thus, sentimental analysis for IMDB data using Rapidminer is done successfully.
